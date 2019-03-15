@@ -10,7 +10,7 @@ Toggle Calendars on Google Calendar with shortcut
 
 ### Configure extention
 
-Add rules from [*month-view.js*](https://github.com/didierkrux/google-calendar-toggle/month-view.js) and [*agenda-view.js*](https://github.com/didierkrux/google-calendar-toggle/agenda-view.js)
+Add rules from [*month-view.js*](https://github.com/didierkrux/google-calendar-toggle/blob/master/month-view.js) and [*agenda-view.js*](https://github.com/didierkrux/google-calendar-toggle/blob/master/agenda-view.js)
 
 ![add rules](https://raw.githubusercontent.com/didierkrux/google-calendar-toggle/master/images/add_rules.jpg)
 
