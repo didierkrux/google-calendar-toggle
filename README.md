@@ -1,6 +1,6 @@
 # google-calendar-toggle
 
-Toggle Calendars on Google Calendar with shortcut
+Toggle Calendars on Google Calendar using <kbd>`</kbd> backquote key as shortcut.
 
 ## Installation
 
